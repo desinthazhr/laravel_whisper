@@ -1,0 +1,11 @@
+a.navbar-brand{
+	font-size: 1.5rem;
+}
+
+#body{
+	background-color: #212121;
+}
+.navbar{
+	/*margin-top: 2rem;*/
+	height: 3.7rem;
+}

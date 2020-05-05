@@ -1,0 +1,10 @@
+.form-group input.form-control{
+	background-color: transparent;
+	color: white;
+	border: 1px solid #fb6430;
+}
+
+.form-group p{
+	font-size: 20px;
+	color: #fb6430;
+}

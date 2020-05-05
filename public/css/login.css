@@ -1,0 +1,27 @@
+
+div.card-body form{
+	opacity: 1.0;
+}
+
+.card, .card-header{
+	background-color: rgba(0,0,0,0.5);
+	border-radius: 5px;
+	border-top: 5px solid #fa441b;
+	color: white;
+}
+
+img.logo{
+	border-radius: 50%;
+	position: absolute;
+	width: 150px;
+	z-index: 10;
+	top: 135px;
+}
+
+.card-body{
+	padding: 5rem 0 2rem 0;
+}
+
+main{
+	margin-top: 10rem;
+}
