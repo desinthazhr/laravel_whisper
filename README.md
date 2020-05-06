@@ -6,22 +6,33 @@
 </ol>
 <pre><code>    $ git clone https://github.com/desinthazhr/project-pbw.git
 </code></pre>
-<ol start="2">
+            <ol start="2">
+<li>Integrate Composer</li>
+</ol>
+<pre><code>       $ composer install
+</code></pre>
+                        <ol start="3">
+<li>Generate Key</li>
+</ol>
+<pre><code>       $ $ php artisan key:generate
+</code></pre>
+            
+<ol start="3">
 <li>Aktifkan Xamppp dan buat database dengan nama "whisper_cafe"</li>
 </ol>
-<ol start="3">
+<ol start="4">
 <li>Edit .env sesuai database yang sudah dibuat</li>
 </ol>
-<ol start="4">
+<ol start="5">
 <li>Jika DB sudah dibuat, klik menu 'IMPORT'</li> 
 </ol>
-<ol start="5">
+<ol start="6">
 <li>pilih file 'whisper_cafe.sql'</li>
 </ol>
-            <ol start="6">
+            <ol start="7">
 <li>klik oke atau kirim</li>
 </ol>
-<ol start="7">
+<ol start="8">
 <li>Jalankan perintah</li>
 </ol>
 <pre><code>    $ php artisan serve
