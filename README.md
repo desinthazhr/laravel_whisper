@@ -27,7 +27,7 @@
             <pre><code>    $ php artisan serve
 </code></pre>
 
-                AKUN ADMIN
-     email : admin@whisper.com
-      pass : admin123
+<h5>AKUN ADMIN</h5>
+<h6>email : admin@whisper.com</h6>
+<h7>pass : admin123</h7>
          
