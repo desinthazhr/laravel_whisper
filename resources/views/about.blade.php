@@ -1,9 +1,10 @@
 @extends('layouts.master')
 
-@section('title', 'Admin - Dashboard')
+@section('title', 'Admin - About')
 
 @section('style')
 <style>
+
 	h4, p{
 		color: white;
 	}
@@ -17,19 +18,48 @@
 	</div>
 	<div class="row">
 		<div class="col-md">
-			<h4>Disclaimer</h4>
+		
 			<hr class="bg-warning mb-2 mt-3">
-			<p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Est necessitatibus iure perferendis eaque ex autem, aperiam maxime animi quasi error? Perferendis unde numquam ex animi, magnam modi pariatur suscipit sit.</p>
+			<div class="media d-block media-custom text-center">
+				<a href="adoption-single.html"><img src="../../img/desintha1.jpg" alt="Whisper's Cofe" class="img-fluid"></a>
+				<div class="media-body">
+				  <h3 class="mt-0 text-White">Desintha Zahara Azmi</h3>
+				  <p class="lead">Front-end<br> ADMIN</p>
+				</div>
+			  </div>
 		</div>
 		<div class="col-md">
-			<h4>Privacy Policy</h4>
+		
 			<hr class="bg-warning mb-2 mt-3">
-			<p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Est necessitatibus iure perferendis eaque ex autem, aperiam maxime animi quasi error? Perferendis unde numquam ex animi, magnam modi pariatur suscipit sit.</p>
+			<div class="media d-block media-custom text-center">
+				<a href="adoption-single.html"><img src="../../img/intan1.jpg" alt="Intan Wahyuni" class="img-fluid"></a>
+				<div class="media-body">
+				  <h3 class="mt-0 text-white">Intan Wahyuni</h3>
+				  <p class="lead">Back-end <br> ADMIN</p>
+				</div>
+			  </div>
 		</div>
 		<div class="col-md">
-			<h4>About Us</h4>
+		
 			<hr class="bg-warning mb-2 mt-3">
-			<p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Est necessitatibus iure perferendis eaque ex autem, aperiam maxime animi quasi error? Perferendis unde numquam ex animi, magnam modi pariatur suscipit sit.</p>
+			<div class="media d-block media-custom text-center">
+				<a href="adoption-single.html"><img src="../../img/Risma1.jpg" alt="Ingrit Tamara" class="img-fluid"></a>
+				<div class="media-body">
+				  <h3 class="mt-0 text-white">Risma Kurniawaty</h3>
+				  <p class="lead">Front-end PENGUNJUNG</p>
+				</div>
+			  </div>
+		</div>
+		<div class="col-md">
+			
+			<hr class="bg-warning mb-2 mt-3">
+			<div class="media d-block media-custom text-center">
+				<a href="adoption-single.html"><img src="../../img/inggrit.jpg" alt="Ingrit Tamara" class="img-fluid"></a>
+				<div class="media-body">
+				  <h3 class="mt-0 text-white">Inggrit Tamara</h3>
+				  <p class="lead">Back-end PENGUNJUNG</p>
+				</div>
+			  </div>
 		</div>
 	</div>
 	<div class="row justify-content-center mt-5">
