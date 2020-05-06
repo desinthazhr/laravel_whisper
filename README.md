@@ -1,6 +1,7 @@
 <h1>WHISPER'S CAFE</h1>
 <h2>RUN</h2>
-1)  Ekstrak File ini
+
+<table>1)  Ekstrak File ini</table>
 2) Copy dan paste folder 'whisper-cafe' ke folder htdocs XAMPP
 3) Buka XAMPP lalu jalankan Apache dan MySQL
 4) Buka localhost/phpmyadmin
