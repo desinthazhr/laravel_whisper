@@ -6,22 +6,22 @@
 </ol>
 <pre><code>    $ git clone https://github.com/desinthazhr/project-pbw.git
 </code></pre>
-<ol>
+<ol start="2">
 <li>Aktifkan Xamppp dan buat database dengan nama "whisper_cafe"</li>
 </ol>
-<ol>
+<ol start="3">
 <li>Edit .env sesuai database yang sudah dibuat</li>
 </ol>
-<ol>
+<ol start="4">
 <li>Jika DB sudah dibuat, klik menu 'IMPORT'</li> 
 </ol>
-            <ol>
+            <ol start="5">
                 <li>pilih file 'whisper_cafe.sql'<li>
             </ol>
-            <ol>
+            <ol start="6">
                 <li>klik oke atau kirim<li>
             </ol>
-            <ol>
+            <ol start="7">
                 <li>Jalankan perintah<li>
             </ol>
             <pre><code>    $ php artisan serve
