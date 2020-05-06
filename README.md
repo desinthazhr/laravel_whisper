@@ -18,14 +18,7 @@
 <ol start="5">
 <li>pilih file 'whisper_cafe.sql'<li>
 </ol>
-<ol start="6">
-<li>klik oke atau kirim<li>
-</ol>
-<ol start="7">
-<li>Jalankan perintah<li>
-</ol>
-<pre><code>    $ php artisan serve
-</code></pre>
+
 
 <h5>AKUN ADMIN</h5>
 <h7>email : admin@whisper.com</h7>
