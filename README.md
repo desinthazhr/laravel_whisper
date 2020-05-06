@@ -20,6 +20,7 @@
 </ol>
 <ol start="6">
 <li>klik oke atau kirim<li>
+</ol>
 <ol start="7">
 <li>Jalankan perintah<li>
 </ol>
