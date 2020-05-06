@@ -12,15 +12,14 @@
 <pre><code>       $ composer install
 </code></pre>
             <ol start="3">
-<li>Make .env file and duplicate .env.example</li>
+<li>Buat .env file dan duplikat .env.example</li>
 </ol>
 <pre><code>    $ cp .env.example .env
 </code></pre>
-<ol start="3">
-                        <ol start="4">
+<ol start="4">
 <li>Generate Key</li>
 </ol>
-<pre><code>       $ $ php artisan key:generate
+<pre><code>        $ php artisan key:generate
 </code></pre>
             
 <ol start="5">
