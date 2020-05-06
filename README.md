@@ -15,16 +15,15 @@
 <ol start="4">
 <li>Jika DB sudah dibuat, klik menu 'IMPORT'</li> 
 </ol>
-            <ol start="5">
-                <li>pilih file 'whisper_cafe.sql'<li>
-            </ol>
-            <ol start="6">
-                <li>klik oke atau kirim<li>
-            </ol>
-            <ol start="7">
-                <li>Jalankan perintah<li>
-            </ol>
-            <pre><code>    $ php artisan serve
+<ol start="5">
+<li>pilih file 'whisper_cafe.sql'<li>
+</ol>
+<ol start="6">
+<li>klik oke atau kirim<li>
+<ol start="7">
+<li>Jalankan perintah<li>
+</ol>
+<pre><code>    $ php artisan serve
 </code></pre>
 
 <h5>AKUN ADMIN</h5>
