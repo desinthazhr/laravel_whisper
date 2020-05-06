@@ -11,28 +11,34 @@
 </ol>
 <pre><code>       $ composer install
 </code></pre>
-                        <ol start="3">
+            <ol start="3">
+<li>Make .env file and duplicate .env.example</li>
+</ol>
+<pre><code>    $ cp .env.example .env
+</code></pre>
+<ol start="3">
+                        <ol start="4">
 <li>Generate Key</li>
 </ol>
 <pre><code>       $ $ php artisan key:generate
 </code></pre>
             
-<ol start="3">
+<ol start="5">
 <li>Aktifkan Xamppp dan buat database dengan nama "whisper_cafe"</li>
 </ol>
-<ol start="4">
+<ol start="6">
 <li>Edit .env sesuai database yang sudah dibuat</li>
 </ol>
-<ol start="5">
+<ol start="7">
 <li>Jika DB sudah dibuat, klik menu 'IMPORT'</li> 
 </ol>
-<ol start="6">
+<ol start="8">
 <li>pilih file 'whisper_cafe.sql'</li>
 </ol>
             <ol start="7">
 <li>klik oke atau kirim</li>
 </ol>
-<ol start="8">
+<ol start="9">
 <li>Jalankan perintah</li>
 </ol>
 <pre><code>    $ php artisan serve
