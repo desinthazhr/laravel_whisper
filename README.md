@@ -26,8 +26,8 @@
             </ol>
             <pre><code>    $ php artisan serve
 </code></pre>
- <ol>
-                <li>AKUN ADMIN<li>
-     <li>email : admin@whisper.com<li>
-      <li>pass : admin123<li>
-            </ol>
+
+                AKUN ADMIN
+     email : admin@whisper.com
+      pass : admin123
+         
