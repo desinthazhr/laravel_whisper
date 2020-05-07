@@ -1,6 +1,6 @@
 @extends('layouts.admin')
 
-@section('title', 'Admin - Dashboard')
+@section('title', 'Admin - Minuman')
 
 @section('style')
   <link rel="stylesheet" href="{{url('css/admin-dashboard.css')}}">
