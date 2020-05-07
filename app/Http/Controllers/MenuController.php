@@ -122,7 +122,7 @@ class MenuController extends Controller
             File::delete($image_path);
 
         Menu::destroy($menu->id);
-        return redirect('/'.$request->jenis) -> with('status','Data '.$request->nama.' berhasil dihapus');
+        return redirect('/'.$menu->jenis) -> with('status','Data'.$menu->nama.' berhasil dihapus');
     }
 
      public function makanan(){
